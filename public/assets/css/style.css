@@ -490,3 +490,19 @@ footer {
         width: calc(33.3333% - 50px);
     }
 }
+/* keithlun */
+.keithlun-container h1 {
+    font-family: "Lexend", sans-serif;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px #d2990a;
+}
+
+#keithlun {
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    border-radius: 30%;
+    border: 5px solid #31935a;
+    box-shadow: 6px 10px 8px #80ab35;
+}
