@@ -501,8 +501,8 @@ footer {
     text-shadow: 2px 2px #321291;
 }
 #keithlun {
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
     border-radius: 30%;
     margin: 20px;
     border: 5px solid #ce41b2;
