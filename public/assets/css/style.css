@@ -490,3 +490,25 @@ footer {
         width: calc(33.3333% - 50px);
     }
 }
+
+/* Keithlun */
+.keithlun-container h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(82, 151, 86);
+    text-shadow: 2px 2px #321291;
+}
+#keithlun {
+    height: 50%;
+    width: 50%;
+    border-radius: 30%;
+    margin: 20px;
+    border: 5px solid #ce41b2;
+    box-shadow: 6px 10px 8px #1c1c1e;
+}
+.keithlun:hover .picture img {
+    transform: scale(0.8);
+}
+
